@@ -10,10 +10,6 @@ Newzify is an ongoing project aimed at creating a news application for Android d
 - Customize your news feed according to your preferences
 - Stay updated with the latest news from around the globe
 
-## Demo
-
-![Newzify Demo](demo.gif)
-
 ## Installation
 
 To run Newzify on your Android device, follow these steps:
